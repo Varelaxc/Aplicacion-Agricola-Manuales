@@ -1,0 +1,37 @@
+.header {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.custom-panel {
+    background-color: #002B7A !important;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+}
+
+.custom-panel img {
+    align-self: center;
+    width: 50%;
+}
+
+.mt-10 {
+    margin-top: 10;
+}
+
+.mt-20 {
+    margin-top: 20;
+}
+
+.mt-30 {
+    margin-top: 30;
+}
+
+.mt-40 {
+    margin-top: 40;
+}
+
+.mt-50 {
+    margin-top: 50;
+}
